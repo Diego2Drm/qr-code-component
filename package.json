@@ -1,0 +1,14 @@
+{
+  "name": "qr-code-component",
+  "version": "1.0.0",
+  "description": "qr code",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d"
+  },
+  "author": "Diego Ramirez",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
